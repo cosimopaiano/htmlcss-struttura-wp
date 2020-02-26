@@ -27,7 +27,7 @@ body {
 
 /* header */
 
-.main-header{
+.main-header {
   position: relative;
   margin-bottom: 15px;
   margin-top:30px;
@@ -62,7 +62,7 @@ body {
 .navigation {
   background: #757575;
 }
-.navigation ul{
+.navigation ul {
   list-style: none;
   padding: 0;
   margin: 0 auto;
@@ -99,8 +99,8 @@ body {
   list-style: none;
 }
 
-.blocco1 li {
-}
+/* .blocco1 li {
+} */
 
 .col-b {
   width: 49%;
@@ -119,9 +119,10 @@ body {
 }
 
 /* footer */
-.main-footer{
+.main-footer {
   text-align: center;
 }
+
 .footer-text {
   height: 40px;
   background:#F5F5F5;
@@ -147,6 +148,6 @@ body {
   color: grey;
 }
 
-/* .social-icone { 
+/* .social-icone {
   line-height: 50px;
 }
